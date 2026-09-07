@@ -1,3 +1,6 @@
 [submodule "revo-fonto"]
 	path = revo-fonto
 	url = https://github.com/revuloj/revo-fonto.git
+[submodule "penelope"]
+	path = penelope
+	url = https://github.com/pettarin/penelope.git
