@@ -1,0 +1,17 @@
+Third-party licensing notes
+
+- This repository includes upstream projects as submodules:
+  - `revo-fonto/` (Reta Vortaro source), distributed under GNU GPL v2.
+  - `penelope/` (dictionary converter), distributed under MIT.
+- Licenses for submodules remain in their own directories and keep their original terms.
+
+Top-level project licensing
+
+- The build scripts, integration code, and glue in this repository are licensed as:
+  GNU GPL v2 or later (`GPL-2.0-or-later`).
+
+Compatibility note
+
+- MIT code is GPL-compatible.
+- The ReVo source license is the constraining upstream license for distribution workflows.
+

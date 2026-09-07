@@ -69,3 +69,11 @@ Note: Cybook chooses dictionaries based on ebook language metadata (`dc:language
 - Reboot after USB eject; hot unplug is often not enough for dictionary refresh.
 - Test on a book whose `dc:language` matches `F_LangFrom` (for example `eo` or `de`).
 
+## License
+
+- Top-level scripts and integration code: `GPL-2.0-or-later` (see `LICENSE`).
+- Submodules keep their upstream licenses:
+  - `revo-fonto/`: GNU GPL v2
+  - `penelope/`: MIT
+- See `NOTICE` for repository-level licensing notes.
+
